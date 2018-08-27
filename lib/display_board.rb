@@ -7,6 +7,7 @@ def display_board
   puts line
   puts role
   puts line
+  puts role
 end
 
 display_board
